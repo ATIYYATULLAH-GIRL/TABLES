@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>welcome to my page</title>
+    </head>
+    <body>
+        <h1>welcome to my school webpage</h1>
+        <h2>welcome to my school webpage</h2>
+        <h3>welcome to my school webpage</h3>
+        <h4>welcome to my school webpage</h4>
+        <h5>welcome to my school webpage</h5>
+        <h6>welcome to my school webpage</h6>
+        <p>the name of my school is ikhwan college.</p>
+        <small>it is located in dele aroeye oshodi lagos in nigeria</small>
+        <mark>my school has classes a libary and different labs and it is very wide</mark>
+        <em>i love my school</em>
+    </body>
+</html>
